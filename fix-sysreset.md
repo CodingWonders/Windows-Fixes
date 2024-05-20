@@ -181,7 +181,7 @@ There are some drawbacks in this method:
 To summarize everything that has been done:
 
 - We have looked at how system resets work in Windows and their issues, and
-- We have looked at how to manually reset a computer by installing Windows,
+- We have looked at how to manually reset a computer by installing Windows
 
 ## Thanks
 
